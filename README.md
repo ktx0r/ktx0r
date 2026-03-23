@@ -5,7 +5,7 @@ hi! i'm katie.
 - **[Implementing a Vulnerabilty Management Program](https://github.com/ktx0r/-SIM-imp-vuln-mgmt-prog)**
 - **[Programmatic Vulnerability Remediations w/ Powershell & BASH](https://github.com/ktx0r/link)**
 
-## 👽 Threat Hunting & SOC Projects 👽:
+## 👽🔫 Threat Hunting & SOC Projects 👽🔫:
 
 - **[Threat Hunt: TOR browser usage](link)**
 <!--
