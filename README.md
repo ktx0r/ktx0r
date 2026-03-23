@@ -1,4 +1,4 @@
-## sup. 📎
+hi! i'm katie.
 
 ## 🤖 Vulnerability Management Projects 🤖:
 
