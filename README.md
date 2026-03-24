@@ -1,7 +1,7 @@
 hi! i'm katie.
 
 # 🤖 Vulnerability Management Projects 🤖
-- [Implementing a Vulnerabilty Management Program](https://github.com/ktx0r/-SIM-imp-vuln-mgmt-prog)
+- [Implementing a Vulnerabilty Management Program](https://github.com/ktx0r/vulnerability_management_program)
 - *[Programmatic Vulnerability Remediations w/ Powershell & BASH](https://github.com/ktx0r/link)*
 
 # 👽 Threat Hunting & SOC Projects 👽
