@@ -1,4 +1,4 @@
-hi! i'm katie.
+hi! i'm katie. most of these links are placeholders until i get around to it.
 
 # 🤖 Vulnerability Management Projects 🤖
 - [Implementing a Vulnerabilty Management Program](https://github.com/ktx0r/vulnerability_management_program)
