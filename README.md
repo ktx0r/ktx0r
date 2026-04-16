@@ -16,7 +16,7 @@ hi! i'm katie. most of these links are placeholders until i get around to it.
 - *[Threat Hunt: Azuki Series: Pt 4: Dead in the Water](https://github.com/ktx0r/link)* (01.03.2026)
 - *[Threat Hunt: The Helpdesk Deception](https://github.com/ktx0r/link)* (11.08.2025)
 - *[Threat Hunt: Pwd Spray to Full Compromise](https://github.com/ktx0r/link)* (09.21.2025)
-- *[Threat Hunt: TOR browser usage](https://github.com/ktx0r/link)*
+- [Threat Hunt: TOR browser usage](https://github.com/ktx0r/Threat-Hunt-TOR-Browser-Usage)
 <!--
 **ktx0r/ktx0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
