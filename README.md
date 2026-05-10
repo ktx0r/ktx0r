@@ -5,7 +5,7 @@
 # 👽 Threat Hunting & SOC Projects 👽
 - [Threat Hunt: Scattered Invoice - BEC Investigation using Sentinel/LAW](https://github.com/ktx0r/Threat-Hunt-Scattered-Invoice)
 - [Threat Hunt: Signals Before the Noise - OSINT & Log Analysis using LAW](https://github.com/ktx0r/Threat-Hunt-Signals-Before-the-Noise)
-- [Threat Hunt: TOR browser usage](https://github.com/ktx0r/Threat-Hunt-TOR-Browser-Usage)
+- [Threat Hunt: Unauthorized TOR browser usage with Advanced Hunting in Microsoft Defender](https://github.com/ktx0r/Threat-Hunt-TOR-Browser-Usage)
 <!--- [Threat Hunt: EmberForge Game Studio](https://github.com/ktx0r/link)
 - [Threat Hunt: The Buyer](https://github.com/ktx0r/link)
 - [Threat Hunt: The Broker](https://github.com/ktx0r/link)
