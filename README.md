@@ -1,6 +1,6 @@
 # 🤖 Vulnerability Management Projects 🤖
 - [Implementing a Vulnerabilty Management Program](https://github.com/ktx0r/vulnerability_management_program)
-- *[Programmatic Vulnerability Remediations w/ Powershell & BASH](https://github.com/ktx0r/link) in progress*
+- [Programmatic Vulnerability Remediations w/ Powershell & BASH](https://github.com/ktx0r/Programmatic-Vulnerability-Remediation)
 
 # 👽 Threat Hunting & SOC Projects 👽
 - [Threat Hunt: Scattered Invoice - BEC Investigation using Sentinel/LAW](https://github.com/ktx0r/Threat-Hunt-Scattered-Invoice)
