@@ -3,6 +3,7 @@
 - [Programmatic Vulnerability Remediations w/ Powershell & BASH](https://github.com/ktx0r/Programmatic-Vulnerability-Remediation)
 
 # 👽 Threat Hunting & SOC Projects 👽
+- [Threat Hunt: Silent Corridor - Compromised VPN credentials, AD dump, exfil investigating with LAW](https://github.com/ktx0r/Threat-Hunt-Silent-Corridor)
 - [Threat Hunt: Scattered Invoice - BEC Investigation using Sentinel/LAW](https://github.com/ktx0r/Threat-Hunt-Scattered-Invoice)
 - [Threat Hunt: Signals Before the Noise - OSINT & Log Analysis using LAW](https://github.com/ktx0r/Threat-Hunt-Signals-Before-the-Noise)
 - [Threat Hunt: Unauthorized TOR browser usage with Advanced Hunting in Microsoft Defender](https://github.com/ktx0r/Threat-Hunt-TOR-Browser-Usage)
