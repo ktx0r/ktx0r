@@ -1,4 +1,4 @@
-# 🤖 Vulnerability Management Projects 🤖
+<!--- # 🤖 Vulnerability Management Projects 🤖
 - [Implementing a Vulnerabilty Management Program](https://github.com/ktx0r/vulnerability_management_program)
 - [Programmatic Vulnerability Remediations w/ Powershell & BASH](https://github.com/ktx0r/Programmatic-Vulnerability-Remediation)
 
@@ -7,7 +7,7 @@
 - [Threat Hunt: Scattered Invoice - BEC Investigation using Sentinel/LAW](https://github.com/ktx0r/Threat-Hunt-Scattered-Invoice)
 - [Threat Hunt: Signals Before the Noise - OSINT & Log Analysis using LAW](https://github.com/ktx0r/Threat-Hunt-Signals-Before-the-Noise)
 - [Threat Hunt: Unauthorized TOR browser usage with Advanced Hunting in Microsoft Defender](https://github.com/ktx0r/Threat-Hunt-TOR-Browser-Usage)
-<!--- [Threat Hunt: EmberForge Game Studio](https://github.com/ktx0r/link)
+[Threat Hunt: EmberForge Game Studio](https://github.com/ktx0r/link)
 - [Threat Hunt: The Buyer](https://github.com/ktx0r/link)
 - [Threat Hunt: The Broker](https://github.com/ktx0r/link)
 - [Threat Hunt: ❌ Crosscheck](https://github.com/ktx0r/link)
