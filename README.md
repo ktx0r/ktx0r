@@ -1,3 +1,4 @@
+we all become what we pretend to be.
 <!--- # 🤖 Vulnerability Management Projects 🤖
 - [Implementing a Vulnerabilty Management Program](https://github.com/ktx0r/vulnerability_management_program)
 - [Programmatic Vulnerability Remediations w/ Powershell & BASH](https://github.com/ktx0r/Programmatic-Vulnerability-Remediation)
