@@ -4,9 +4,9 @@
 - [Programmatic Vulnerability Remediations w/ Powershell](https://github.com/ktx0r/Programmatic-Vulnerability-Remediation)
 
 # 👽 Threat Hunting & SOC Projects 👽
-- [Threat Hunt: Silent Corridor - Compromised VPN credentials, AD dump, exfil investigating with LAW](https://github.com/ktx0r/Threat-Hunt-Silent-Corridor)
-- [Threat Hunt: Scattered Invoice - BEC Investigation using Sentinel/LAW](https://github.com/ktx0r/Threat-Hunt-Scattered-Invoice)
-- [Threat Hunt: Signals Before the Noise - OSINT & Log Analysis using LAW](https://github.com/ktx0r/Threat-Hunt-Signals-Before-the-Noise)
+- [Threat Hunt: Compromised VPN credentials, AD dump, exfil investigating with LAW](https://github.com/ktx0r/Threat-Hunt-Silent-Corridor)
+- [Threat Hunt: BEC Investigation using Sentinel/LAW](https://github.com/ktx0r/Threat-Hunt-Scattered-Invoice)
+- [Threat Hunt: OSINT & Log Analysis using LAW](https://github.com/ktx0r/Threat-Hunt-Signals-Before-the-Noise)
 - [Threat Hunt: Unauthorized TOR browser usage with Advanced Hunting in Microsoft Defender](https://github.com/ktx0r/Threat-Hunt-TOR-Browser-Usage)
 <!-- - [Threat Hunt: EmberForge Game Studio](https://github.com/ktx0r/link)
 - [Threat Hunt: The Buyer](https://github.com/ktx0r/link)
