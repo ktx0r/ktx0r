@@ -1,7 +1,7 @@
 
 # 🤖 Vulnerability Management Projects 🤖
 - [Implementing a Vulnerabilty Management Program](https://github.com/ktx0r/vulnerability_management_program)
-- [Programmatic Vulnerability Remediations w/ Powershell & BASH](https://github.com/ktx0r/Programmatic-Vulnerability-Remediation)
+- [Programmatic Vulnerability Remediations w/ Powershell](https://github.com/ktx0r/Programmatic-Vulnerability-Remediation)
 
 # 👽 Threat Hunting & SOC Projects 👽
 - [Threat Hunt: Silent Corridor - Compromised VPN credentials, AD dump, exfil investigating with LAW](https://github.com/ktx0r/Threat-Hunt-Silent-Corridor)
